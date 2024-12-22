@@ -1,4 +1,3 @@
-Sure, here is the updated README file with the code part removed and placeholders for image results:
 
 ---
 
@@ -84,7 +83,7 @@ Here you can include images or screenshots showcasing the results of the parking
 
 - **Image 1: Initial Frame with Parking Spots Marked**
   
-  ![Initial Frame](path/to/initial_frame_image.png)
+  ![mask ](https://github.com/Micahmichael03/parking-spot-detection/blob/main/mask_1920_1080.png)
 
 - **Image 2: Detected Empty and Occupied Spots**
   
@@ -101,8 +100,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Contact
 
-For any questions or inquiries, please contact the project maintainer at [your-email@example.com].
+For any questions or inquiries, please contact the project maintainer at makoflash05@gmail.com.
 
 ---
 
-Replace the placeholders with the actual paths to your images. This README file now includes sections where you can input image results, making it easy to showcase the visual outcomes of your project.
