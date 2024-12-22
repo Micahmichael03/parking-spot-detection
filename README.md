@@ -1,4 +1,4 @@
-Here's the corrected README content for your project with the two images displayed side by side:
+Sure, here is the updated README file with the code part removed and placeholders for image results:
 
 ---
 
@@ -82,13 +82,14 @@ This file lists the dependencies for the project, including libraries like `open
 
 Here you can include images or screenshots showcasing the results of the parking spot detection system:
 
-<p align="center">
-  <img src="parking-spot-detection
-/mask_1920_1080.png
-" alt="Initial Frame" width="45%">
-  <img src="parking-spot-detection
-/Screenshot 2024-12-20 170157.png" alt="Detected Spots" width="45%">
-</p>
+- **Image 1: Initial Frame with Parking Spots Marked**
+  
+  ![Initial Frame](path/to/initial_frame_image.png)
+
+- **Image 2: Detected Empty and Occupied Spots**
+  
+  ![Screenshot 2024-12-20 170157][(path/to/detected_spots_image.png)](https://github.com/Micahmichael03/parking-spot-detection/blob/main/Screenshot%202024-12-20%20170157.png)
+
 
 ### Contributing
 
