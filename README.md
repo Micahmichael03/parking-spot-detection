@@ -88,7 +88,7 @@ Here you can include images or screenshots showcasing the results of the parking
 
 - **Image 2: Detected Empty and Occupied Spots**
   
-  ![Screenshot 2024-12-20 170157][(path/to/detected_spots_image.png)](https://github.com/Micahmichael03/parking-spot-detection/blob/main/Screenshot%202024-12-20%20170157.png)
+  ![Screenshot 2024-12-20 170157](https://github.com/Micahmichael03/parking-spot-detection/blob/main/Screenshot%202024-12-20%20170157.png)
 
 
 ### Contributing
