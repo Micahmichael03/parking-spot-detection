@@ -83,8 +83,11 @@ This file lists the dependencies for the project, including libraries like `open
 Here you can include images or screenshots showcasing the results of the parking spot detection system:
 
 <p align="center">
-  <img src="parking-spot-detection/mask_1920_1080.png" alt="Initial Frame" width="45%">
-  <img src="parking-spot-detection/Screenshot_2024-12-20_170157.png" alt="Detected Spots" width="45%">
+  <img src="parking-spot-detection
+/mask_1920_1080.png
+" alt="Initial Frame" width="45%">
+  <img src="parking-spot-detection
+/Screenshot 2024-12-20 170157.png" alt="Detected Spots" width="45%">
 </p>
 
 ### Contributing
