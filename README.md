@@ -1,4 +1,5 @@
-# parking-spot-detection
+Here's the corrected README content for your project with the two images displayed side by side:
+
 ---
 
 # Parking Spot Detection Project
@@ -81,13 +82,10 @@ This file lists the dependencies for the project, including libraries like `open
 
 Here you can include images or screenshots showcasing the results of the parking spot detection system:
 
-- **Image 1: Initial Frame with Parking Spots Marked**
-  
-  ![mask_1920_1080](mask_1920_1080.png)
-
-- **Image 2: Detected Empty and Occupied Spots**
-  
-  ![Screenshot 2024 12 20 170157](Screenshot 2024-12-20 170157.png)
+<p align="center">
+  <img src="parking-spot-detection/mask_1920_1080.png" alt="Initial Frame" width="45%">
+  <img src="parking-spot-detection/Screenshot_2024-12-20_170157.png" alt="Detected Spots" width="45%">
+</p>
 
 ### Contributing
 
@@ -102,3 +100,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any questions or inquiries, please contact the project maintainer at [your-email@example.com].
 
 ---
+
+Replace the placeholders with the actual paths to your images. This README file now includes sections where you can input image results, making it easy to showcase the visual outcomes of your project.
