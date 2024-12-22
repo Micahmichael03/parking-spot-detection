@@ -87,7 +87,7 @@ Here you can include images or screenshots showcasing the results of the parking
 
 - **Image 2: Detected Empty and Occupied Spots**
   
-  ![Screenshot 2024-12-20 170157](Screenshot 2024-12-20 170157.png)
+  ![Screenshot 2024 12 20 170157](Screenshot 2024-12-20 170157.png)
 
 ### Contributing
 
